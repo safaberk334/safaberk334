@@ -1,8 +1,70 @@
-# Hey, I'm Berk 👋
+<div align="center">
 
-**Web Developer** crafting modern, responsive websites for restaurants, clinics, and local businesses.
+# Berk Isik
 
-## 🔧 Tech Stack
+**Web Developer** | Lecco, Italy
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://safaberk334.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safaberk334@gmail.com)
+
+---
+
+### Language / Lingua / Dil
+
+[**EN** English](#-english) | [**IT** Italiano](#-italiano) | [**TR** Turkce](#-turkce)
+
+---
+
+</div>
+
+## 🇬🇧 English
+
+Hi, I'm Berk — a web developer based in Lecco, Italy. I build modern, responsive websites for restaurants, clinics, and local businesses. I focus on clean design, fast performance, and great user experience.
+
+### Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Gamila Panini** | Full-stack web app for an Italian panini restaurant in Lecco | [gamilapanini.it](https://gamilapanini.it) |
+| **Pizzeria del Lago** | Elegant website for a pizzeria on Lake Como | [View Site](https://safaberk334.github.io/lecco-pizzeria/) |
+| **Ristoro Monte Basso** | Traditional alpine restaurant at 1500m, Valsassina | [View Site](https://safaberk334.github.io/monte-basso/) |
+| **Visit Hair Clinic** | Premium hair transplant clinic in Istanbul | [View Site](https://safaberk334.github.io/visit-hair-clinic/) |
+
+---
+
+## 🇮🇹 Italiano
+
+Ciao, sono Berk — uno sviluppatore web con sede a Lecco, Italia. Creo siti web moderni e responsive per ristoranti, cliniche e attivita locali. Mi concentro su design pulito, prestazioni veloci e un'ottima esperienza utente.
+
+### Progetti in Evidenza
+
+| Progetto | Descrizione | Link |
+|----------|-------------|------|
+| **Gamila Panini** | Applicazione web full-stack per un ristorante di panini a Lecco | [gamilapanini.it](https://gamilapanini.it) |
+| **Pizzeria del Lago** | Sito elegante per una pizzeria sul Lago di Como | [Visita il Sito](https://safaberk334.github.io/lecco-pizzeria/) |
+| **Ristoro Monte Basso** | Ristorante alpino tradizionale a 1500m, Valsassina | [Visita il Sito](https://safaberk334.github.io/monte-basso/) |
+| **Visit Hair Clinic** | Clinica premium di trapianto capelli a Istanbul | [Visita il Sito](https://safaberk334.github.io/visit-hair-clinic/) |
+
+---
+
+## 🇹🇷 Turkce
+
+Merhaba, ben Berk — Lecco, Italya'da yasayan bir web gelistirici. Restoranlar, klinikler ve yerel isletmeler icin modern ve responsive web siteleri olusturuyorum. Temiz tasarim, hizli performans ve mukemmel kullanici deneyimine odaklaniyorum.
+
+### One Cikan Projeler
+
+| Proje | Aciklama | Link |
+|-------|----------|------|
+| **Gamila Panini** | Lecco'daki bir panini restorani icin full-stack web uygulamasi | [gamilapanini.it](https://gamilapanini.it) |
+| **Pizzeria del Lago** | Como Golu kiyisinda bir pizzaciya ozel sik web sitesi | [Siteyi Gor](https://safaberk334.github.io/lecco-pizzeria/) |
+| **Ristoro Monte Basso** | 1500m yukseklikte geleneksel dag restorani, Valsassina | [Siteyi Gor](https://safaberk334.github.io/monte-basso/) |
+| **Visit Hair Clinic** | Istanbul'da premium sac ekim klinigi | [Siteyi Gor](https://safaberk334.github.io/visit-hair-clinic/) |
+
+---
+
+<div align="center">
+
+### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -11,16 +73,4 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-## 🚀 Featured Projects
-
-| Project | Description | Live Preview |
-|---------|-------------|-------------|
-| **Pizzeria del Lago** | Authentic Italian pizzeria website — Lecco, Lake Como | [View Site](https://safaberk334.github.io/lecco-pizzeria/) |
-| **Ristoro Monte Basso** | Traditional alpine restaurant — Casargo, Valsassina | [View Site](https://safaberk334.github.io/monte-basso/) |
-| **Visit Hair Clinic** | Premium hair transplant clinic — Istanbul, Turkey | [View Site](https://safaberk334.github.io/visit-hair-clinic/) |
-| **Gamila Panini** | Italian panini restaurant — Full-stack web app | [View Site](https://gamila-panini.com) |
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-safaberk334@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:safaberk334@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-safaberk334-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/safaberk334)
+</div>
